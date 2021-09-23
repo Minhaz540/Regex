@@ -94,3 +94,6 @@ if we want to deal with stored variable we can use this process:
 Here all the necessary flags
 
 ![App Screenshot](ss.png)
+## Here for some tips for how to color or highlight your markdown header.
+
+![App Screenshot](ss2.png)
